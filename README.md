@@ -1,1 +1,1 @@
-# lizmap.github.io
+# geoswebmap.github.io
